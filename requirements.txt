@@ -1,0 +1,5 @@
+requests
+pyfiglet
+pandas
+colorama
+xlsxwriter
